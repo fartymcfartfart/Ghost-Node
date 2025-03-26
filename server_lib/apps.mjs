@@ -33,7 +33,7 @@ const a = [
     {
       name: "Now.gg",
       img: "/assets//img/apps/nowgg2.png",
-      href: "https://now.gg",
+      href: "https://roblox.com",
     },
     {
       name: "VS Code",
